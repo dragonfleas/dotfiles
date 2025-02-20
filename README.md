@@ -3,7 +3,7 @@
 
 ## 📸 Screenshots
 
-![Pic1](screenshots/screenshot1.png)
+![Pic1](screenshot1.png)
 
 ![Pic2](screenshots/screenshot2.png)
 
