@@ -1,0 +1,99 @@
+* {
+  transition: 0.2s;
+}
+window {
+	font-family: "GohuFont 14 Nerd Font Mono";
+	font-size: 18px;
+}
+window {
+    background-color: {background};
+    color: {foreground};
+    border-color: {color1};
+    border-width: 2px;
+}
+
+#input {
+    background-color: {color0};
+    color: {foreground};
+    border-color: {color1};
+}
+
+#input image {
+    color: #fff;
+}
+
+#input:focus {
+    border: none;
+   	outline: none;
+}
+
+#inner-box {
+    margin: 20px;
+    margin-top: 0px;
+    border: none;
+    color: #cba6f7;
+    border-radius: 16px;
+}
+
+#inner-box * {
+    transition: none;
+}
+
+#outer-box {
+    margin: 0px;
+    border: none;
+    padding: 0px;
+    border-radius: 16px;
+}
+
+#scroll {
+    margin-top: 5px;
+    border: none;
+    border-radius: 16px;
+    margin-bottom: 5px;
+}
+
+#text:selected {
+    color: #fff;
+    font-weight: bold;
+}
+
+#img {
+    margin-right: 20px;
+    background: transparent;
+}
+
+#text {
+    margin: 0px;
+    border: none;
+    padding: 0px;
+    background: transparent;
+}
+
+#entry {
+    margin: 0px;
+    border: none;
+    border-radius: 16px;
+    background-color: transparent;
+    min-height:32px;
+    font-weight: bold;
+}
+
+#entry:selected {
+    outline: none;
+    margin: 0px;
+    border: none;
+    border-radius: 16px;
+    background: solid;
+    background-color: #bbadd9
+}
+
+#entry:selected {
+    background-color: {color1};
+    color: {background};
+}
+
+#text:selected {
+    background-color: {color1};
+    color: {background};
+}
