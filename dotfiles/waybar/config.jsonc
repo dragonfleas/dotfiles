@@ -1,4 +1,4 @@
-//posicion
+
 {
   "position": "top",
   "height": 20,
@@ -95,7 +95,7 @@
     "format": "{}",
     "tooltip": true,
     "interval": 3600,
-    "exec": "wttrbar --location 'Coacalco de Berriozábal, Estado de México, México'",
+    "exec": "wttrbar --location '(your location)'",
     "return-type": "json"
 },
 
