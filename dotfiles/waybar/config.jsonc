@@ -151,7 +151,7 @@
   },
   "network": { //modulo internet
   "format-wifi": "<span size='13000' foreground='#f5e0dc'>  </span>{essid}",
-  "format-ethernet": "<span font-family='Nerd Font'> </span> <span font-family='GohuFont 14 Nerd Font Mono'>Conected</span>",
+  "format-ethernet": "<span font-family='Nerd Font'> </span> <span font-family='GohuFont 14 Nerd Font Mono'>Connected</span>",
   "format-linked": "{ifname} (No IP) ",
   "format-disconnected": "<span size='13000' foreground='#f5e0dc'>  </span>Disconnected",
   "tooltip-format-wifi": "Signal Strenght: {signalStrength}%"
